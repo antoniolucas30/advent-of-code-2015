@@ -22,7 +22,3 @@ To verify my solutions, you could run (consider I am using PopOS 20.04):
 
 * **Python Solutions:**
 -> Run with python3 partX.py < Input.txt > Output.txt
-<<<<<<< HEAD
-
-=======
->>>>>>> b8e660cb48bcb810b80ed91294a61acb14dd5846
