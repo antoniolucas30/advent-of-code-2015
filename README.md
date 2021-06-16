@@ -16,8 +16,8 @@ For each Day of the 2015 edition, I provided the two parts needed to achieve two
 
 To verify my solutions, you could run (consider I am using PopOS 20.04):
 
-* **C solutions:**
--> Compiled with gcc -std=c99 partX.c -o partX -Wall -Wextra
+* **C++ solutions:**
+-> Compiled with g++ -std=c11 partX.c -o partX -Wall -Wextra
 -> Run with ./partX < Input.txt > OutputPartX.txt
 
 * **Python Solutions:**
